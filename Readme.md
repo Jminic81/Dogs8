@@ -39,7 +39,7 @@ Figure 1:  Breed Counts, 2007-2016
 
 ![alt text](https://github.com/Jminic81/Dogs7/blob/master/dogbar.png)
 
-Trending for the top five most popular breeds is shown in Figure 2.
+Trending for the top five most popular breeds is shown in Figure 2.  More analysis would be required to determine if there is actually a downward trend in dog ownership.
 
 Figure 2:  Top Five Breeds, Counts vs. Year
 
