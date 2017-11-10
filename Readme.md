@@ -63,9 +63,10 @@ Frequency for Color and DogName were measured but as expected, color was predomi
 
 ### Analysis
 
-The Jupyter notebook "Dogs Merge" in ths repository contains the raw data analysis and visualizations.
+The Jupyter notebook "Dogs Merge" in ths repository contains the raw data analysis and visualizations *(Ref. 4)*
  
 ### References:
 1.  https://www.kaggle.com/kingburrito666/data-analysis-with-dog-breeds/data.  Dataset and kernel by Liam Larsen.
 2.  http://padoglicense.com/
 3.  www.palostpet.com
+4.  https://www.kaggle.com/jminic81/analysis-of-largest-dog-breed-dataset/
